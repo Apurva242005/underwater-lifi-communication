@@ -79,4 +79,3 @@ Academic prototype developed and tested for short-range underwater optical commu
 
 The application is expected to be published by the Patent Office in the coming months.
 
-> This file provides a high-level technical summary only. It does not contain the complete patent specification, claims, inventor information, or other confidential filing details.
