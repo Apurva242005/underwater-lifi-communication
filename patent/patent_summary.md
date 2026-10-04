@@ -1,4 +1,3 @@
-
 # Patent Summary
 
 ## Title
@@ -70,6 +69,8 @@ Academic prototype developed and tested for short-range underwater optical commu
 
 ## Patent Status
 
-A patent application was prepared for the proposed underwater Li-Fi communication system.
+**Patent application filed. Publication is currently pending.**
+
+The application is expected to be published by the Patent Office in the coming months.
 
 > This file provides a high-level technical summary only. It does not contain the complete patent specification, claims, inventor information, or other confidential filing details.
