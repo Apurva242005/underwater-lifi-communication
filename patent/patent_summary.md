@@ -63,6 +63,12 @@ The prototype was designed for short-range communication in clean, shallow-water
 * Diver communication
 * Educational optical communication systems
 
+## Innovation
+
+The proposed system combines low-cost electronic components with visible-light communication to demonstrate a practical approach to short-range underwater wireless data transmission.
+
+The integration of an Arduino-controlled LED transmitter with a BPW34 photodiode, OPA380 precision amplifier, and ADS1115 ADC-based receiver provides a compact and modular platform for underwater optical communication experiments.
+
 ## Project Status
 
 Academic prototype developed and tested for short-range underwater optical communication.
